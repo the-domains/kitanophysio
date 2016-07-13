@@ -1,0 +1,14 @@
+layout_spectrum: 0.8201101154554635
+typography_spectrum: 0.6386385632213205
+color:
+  brandStrength: 0.6541843458544463
+  lightness: 0.9474304770119488
+  saturation: 0.13035386009141803
+  rhythmicContrast: 0.3012502861674875
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: kitanophysio
