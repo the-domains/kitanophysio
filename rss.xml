@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[茅ヶ崎フィジオ]]></title>
         <description><![CDATA[茅ヶ崎フィジオ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kitanophysio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 07:45:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 07:56:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kitanophysio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Introduction]]></title>
-            <description><![CDATA[<article><h1>Introduction</h1><p>北野勇治 ニュージーランド公認理学療法士</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a53ed169459dff1167b4b3d37485956451fb119e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Introduction</h1><p>北野勇治 ニュージーランド公認理学療法士・パーソナルトレーナー</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a53ed169459dff1167b4b3d37485956451fb119e.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2369e450-bfbd-4fa9-b52b-8dad8e06dfe7.jpg</link>
             <guid isPermaLink="false">ea18fa2c-13d2-422f-8404-3b8c0244333c</guid>
-            <pubDate>Fri, 15 Jul 2016 07:45:11 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2016 07:56:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
