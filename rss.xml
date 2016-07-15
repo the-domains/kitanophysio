@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[茅ヶ崎フィジオ]]></title>
+        <description><![CDATA[茅ヶ崎フィジオ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jul 2016 07:45:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>北野勇治 ニュージーランド公認理学療法士</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a53ed169459dff1167b4b3d37485956451fb119e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2369e450-bfbd-4fa9-b52b-8dad8e06dfe7.jpg</link>
+            <guid isPermaLink="false">ea18fa2c-13d2-422f-8404-3b8c0244333c</guid>
+            <pubDate>Fri, 15 Jul 2016 07:45:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
