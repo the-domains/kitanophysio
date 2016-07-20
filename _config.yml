@@ -1,14 +1,14 @@
-layout_spectrum: 0.8201101154554635
-typography_spectrum: 0.6386385632213205
+layout_spectrum: 0.3517030586954206
+typography_spectrum: 0.25360437016934156
 color:
-  brandStrength: 0.6541843458544463
-  lightness: 0.9474304770119488
-  saturation: 0.13035386009141803
-  rhythmicContrast: 0.3012502861674875
+  brandStrength: 0.5241325341630727
+  lightness: 0.02810911601409316
+  saturation: 0.9078122400678694
+  rhythmicContrast: 0.7570636908058077
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: 茅ヶ崎フィィジオ
