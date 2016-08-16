@@ -1,4 +1,3 @@
-layout_spectrum: 0.3517030586954206
 typography_spectrum: 0.25360437016934156
 color:
   brandStrength: 0.5241325341630727
@@ -11,4 +10,6 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.3517030586954206
 name: 茅ヶ崎フィィジオ
+title: 東海岸
